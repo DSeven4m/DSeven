@@ -568,6 +568,9 @@ form textarea.error {
   .about .cont {
     width:95%;
   }
+  .projectimage .poster {
+    width: 95%;
+  }
 
   .about-content p {
     width: 100%;
