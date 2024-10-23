@@ -573,6 +573,10 @@ form textarea.error {
     gap: 0;
   }
 
+  .contact form {
+    width:95%;
+  }
+
   /* .services {
     flex-direction: column;
   }
