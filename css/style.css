@@ -565,6 +565,10 @@ form textarea.error {
     padding-left: 50px;
   }
 
+  .about .cont {
+    width:95%;
+  }
+
   .about-content p {
     width: 100%;
   }
